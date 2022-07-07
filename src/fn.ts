@@ -1,12 +1,12 @@
 // funkcija sudeti 2 reiksmes
 
-function add(num1: number, num2: number): number {
-const sum: number = num1 + num2;
-  console.log(sum);
-  return sum;
-}
+// function add(num1: number, num2: number): number {
+// const sum: number = num1 + num2;
+//   console.log(sum);
+//   return sum;
+// }
 
-add(5, 10);
+// add(5, 10);
 
 // add('5', 10);
 
